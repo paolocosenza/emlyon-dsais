@@ -1,1 +1,2 @@
-# emlyon_dsaib
+# emlyon-dsais
+Repository containing selected projects from the MSc in Data Science and Artificial Intelligence Strategy at Emlyon Business School that I attended from September 2022 to February 2024.
